@@ -10,3 +10,11 @@ by: OPENTAQ
 
 ## alt:
 - [Episode 5 - Building a Business on Open Source - Setting up Email, Calendars, Contacts, & Cloud Sync](https://youtu.be/bzxNb_fcqnA)
+
+
+# software:
+## MailCow
+- [MailCow Email Server | Own Your Email and Data | Overview & Installation](https://youtu.be/t8quQ-LHxg0)
+
+## Docker Mailserver
+- [Setup Free Email Server with Docker Mailserver on Debian 12 - Send Free Bulk Emails](https://youtu.be/kdH5eSo3_fY)
