@@ -8,3 +8,4 @@ by: Tony Teaches Tech
 
 ## alt:
 - [Episode 5 - Building a Business on Open Source - Setting up Email, Calendars, Contacts, & Cloud Sync](https://youtu.be/bzxNb_fcqnA)
+- [SELF-HOSTED | Set up and run your own Mailserver with Mailcow | DNS, Security, Installation, Test](https://youtu.be/_z6do5BSJmg)
