@@ -1,6 +1,7 @@
 sch: https://www.youtube.com/results?search_query=self+hosted+email
 
 # Guide:
+by: Tony Teaches Tech
 - [How to Host Your Own Email Server (for free)](https://youtu.be/8G93NVWkXZk)
 - [How to Setup Your Own iRedMail Email Server](https://youtu.be/f2bjkZWpn7s)
 
