@@ -1,0 +1,2 @@
+- https://en.wikipedia.org/wiki/Sender_Policy_Framework
+- https://en.wikipedia.org/wiki/DMARC
