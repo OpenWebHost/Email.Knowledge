@@ -3,6 +3,8 @@ https://en.wikipedia.org/wiki/Message_transfer_agent
 
 https://en.wikipedia.org/wiki/Message_submission_agent
 
+https://en.wikipedia.org/wiki/Message_delivery_agent
+
 # Client:
 Mail user agent -> https://en.wikipedia.org/wiki/Email_client
 
