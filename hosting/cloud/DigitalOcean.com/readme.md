@@ -7,7 +7,8 @@ sch: https://www.google.com/search?q=digitalocean+mail+port+25
 https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
 
 # discuss:
-https://www.reddit.com/r/selfhosted/comments/djewkt/anyone_successfully_running_email_on_digitalocean/
+- https://www.reddit.com/r/selfhosted/comments/djewkt/anyone_successfully_running_email_on_digitalocean/
+- https://discourse.mailinabox.email/t/digitalocean-smtp-port-25-is-now-blocked-for-all-new-accounts/9346
 
 # Guide:
 ## using SMTP Relay
