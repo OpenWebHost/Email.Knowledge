@@ -1,1 +1,1 @@
-https://www.mailgun.com/blog/email/which-smtp-port-understanding-ports-25-465-587/
+https://www.mailgun.com/blog/deliverability/how-does-email-work/
