@@ -12,3 +12,6 @@ Server
 
 Client
 - https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
+
+# App
+https://en.wikipedia.org/wiki/Webmail
