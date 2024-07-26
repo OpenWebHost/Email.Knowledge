@@ -1,5 +1,8 @@
 sch: https://www.google.com/search?q=digitalocean+mailserver
 
+# outgoing Port: 25 Blocked!
+sch: https://www.google.com/search?q=digitalocean+mail+port+25
+
 # Article:
 https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
 
